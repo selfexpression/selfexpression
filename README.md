@@ -1,16 +1,23 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Artem <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> 
+<h3 align="center">Frontend Developer :heart:</h3>
 
-<!--
-**selfexpression/selfexpression** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+In 2017 I graduated from a medical university, but in 2022 I became interested in frontend development and at the first moment I felt that it was love at first sight :heart:
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=selfexpression)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Stack 💻
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+
+### My contacts 📱
+
+[![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/selfex)
+
+[![Github](https://img.shields.io/github/followers/selfexpression?label=Follow&style=social)](https://github.com/selfexpression)
