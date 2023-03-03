@@ -1,8 +1,6 @@
 <h1 align="center">Hi there, I'm Artem <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> 
 <h3 align="center">Frontend Developer :heart:</h3>
 
-In 2017 I graduated from a medical university, but in 2022 I became interested in frontend development and at the first moment I felt that it was love at first sight :heart:
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=selfexpression)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My stack 💻
