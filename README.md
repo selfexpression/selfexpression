@@ -1,7 +1,7 @@
 # Hi there, I'm Artem
 ## Frontend Developer :heart:
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=selfexpression)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selfexpression&layout=compact&hide_progress=false)
 
 [![codewars](https://www.codewars.com/users/selfexpression/badges/small)](https://www.codewars.com/users/selfexpression) 
 
