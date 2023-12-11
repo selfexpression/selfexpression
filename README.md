@@ -16,7 +16,7 @@
 ### 📱 My contacts :
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/selfex)
 
-- <details>
+<details>
   <summary>INFO</summary>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selfexpression&layout=compact&hide_progress=false)
