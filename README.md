@@ -1,14 +1,6 @@
 <h1 align="center">Hi there, I'm Artem</h1>
 <h3 align="center">Frontend Developer :heart:</h3>
 
-<details>
-  <summary>INFO</summary>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selfexpression&layout=compact&hide_progress=false)
-
-[![codewars](https://www.codewars.com/users/selfexpression/badges/small)](https://www.codewars.com/users/selfexpression) 
-</details>
-
 ### 🧰 My stack :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40"/>
@@ -23,3 +15,11 @@
 
 ### 📱 My contacts :
 [![Telegram](https://img.shields.io/badge/-Telegram-333?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/selfex)
+
+- <details>
+  <summary>INFO</summary>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selfexpression&layout=compact&hide_progress=false)
+
+[![codewars](https://www.codewars.com/users/selfexpression/badges/small)](https://www.codewars.com/users/selfexpression) 
+</details>
