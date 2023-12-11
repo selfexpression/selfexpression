@@ -1,9 +1,13 @@
 <h1 align="center">Hi there, I'm Artem</h1>
-<h3 align="center">Frontend Developer</h3> :heart:
+<h3 align="center">Frontend Developer :heart:</h3>
+
+<details>
+  <summary>INFO</summary>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selfexpression&layout=compact&hide_progress=false)
 
 [![codewars](https://www.codewars.com/users/selfexpression/badges/small)](https://www.codewars.com/users/selfexpression) 
+</details>
 
 ### 🧰 My stack :
 <div>
