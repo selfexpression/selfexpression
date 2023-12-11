@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Artem</h1>
+<h1 align="center">Hi there 👋, I'm Artem</h1>
 <h3 align="center">Frontend Developer :heart:</h3>
 
 ### 🧰 My stack :
