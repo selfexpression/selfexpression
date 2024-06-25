@@ -18,6 +18,4 @@
   <summary>INFO</summary>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selfexpression&layout=compact&hide_progress=false)
-
-[![codewars](https://www.codewars.com/users/selfexpression/badges/small)](https://www.codewars.com/users/selfexpression) 
 </details>
